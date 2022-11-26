@@ -1,19 +1,29 @@
 {
-  "name": "git-tp",
+  "name": "technocratic-party",
   "version": "1.0.0",
-  "description": "Git and NPM",
+  "description": "This is the website for the Technocratic Party",
   "main": "homepage.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start: "npm run lite",
+    "start": "npm run lite",
     "lite": "lite-server"
-  },
-  "repository": {
-    "type": "git"
   },
   "author": "Not Satoshi",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
-  }
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k04l/TechnocraticParty01~.git"
+  },
+  "bugs": {
+    "url": "https://github.com/k04l/TechnocraticParty01~/issues"
+  },
+  "homepage": "https://github.com/k04l/TechnocraticParty01~#readme"
 }
