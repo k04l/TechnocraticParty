@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/k04l/TechnocraticParty01~.git"
+    "url": "git+https://github.com/k04l/TechnocraticParty.git"
   },
   "bugs": {
-    "url": "https://github.com/k04l/TechnocraticParty01~/issues"
+    "url": "https://github.com/k04l/TechnocraticParty.git/issues"
   },
-  "homepage": "https://github.com/k04l/TechnocraticParty01~#readme"
+  "homepage": "https://github.com/k04l/TechnocraticParty.git#readme"
 }
